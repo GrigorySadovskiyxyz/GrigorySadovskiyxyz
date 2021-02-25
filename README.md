@@ -16,6 +16,5 @@ I grew up in Moscow. I studied industrial engineering and management (IEM) in to
 - 👨‍🔧 I’m looking for help with: data science and advanced mathematical modelling.
 - 💬 Ask me about chess, jungle music, and basketball.
 - 📫 How to reach me: [mail](mailto:sadovskiy.grigory@yandex.ru).
-- 🙋‍♂️ My portfolio (not ready yet, but I will put a link anyway
-  😎): [Link.](http://grigorysadovskiy.xyz/)
+- 🙋‍♂️ My portfolio (not ready yet, but I will put a link anyway): [Link.](http://grigorysadovskiy.xyz/)
 
