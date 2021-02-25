@@ -15,6 +15,6 @@ I grew up in Moscow. I studied industrial engineering and management (IEM) in to
 - 👯 I’m looking to collaborate on: research in digitalization, based OEM/ODM firms.
 - 👨‍🔧 I’m looking for help with: data science and advanced mathematical modelling.
 - 💬 Ask me about chess, jungle music, and basketball.
-- 📫 How to reach me: [mail](mailto:sadovskiy.grigory@yandex.ru).
-- 🙋‍♂️ My portfolio (not ready yet, but I will put a link anyway): [Link.](http://grigorysadovskiy.xyz/)
+- 📫 How to reach me: [Mail](mailto:sadovskiy.grigory@yandex.ru)
+- 🙋‍♂️ My portfolio (not ready yet, but I will put a link anyway): [Link](http://grigorysadovskiy.xyz/)
 
