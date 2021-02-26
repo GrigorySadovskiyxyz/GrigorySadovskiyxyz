@@ -11,7 +11,7 @@ I grew up in Moscow. I studied industrial engineering and management (IEM) in to
 ### Now
 
 - 👨‍💻 I’m currently doing research and working on SaaS products in fleet management.
-- 📖 I’m currently learning: LaTeX, Linux administration, Shell scripting, OOP paterns, Vue, D3.js, vim, groff/troff.
+- 📖 I’m currently learning: LaTeX, Linux administration, Shell scripting, OOP paterns, Vue, D3.js, reveal.js, vim, groff/troff.
 - 👯 I’m looking to collaborate on: research in digitalization, based OEM/ODM firms.
 - 👨‍🔧 I’m looking for help with: data science and advanced mathematical modelling.
 - 💬 Ask me about chess, jungle music, and basketball.
