@@ -11,9 +11,9 @@ I grew up in Moscow. I studied industrial engineering and management (IEM) in to
 ### Now
 
 - 👨‍💻 I’m currently doing research and working on SaaS products in fleet management.
-- 📖 I’m currently learning: LaTeX, Linux administration, Shell scripting, OOP paterns, Vue, D3.js, reveal.js, vim, groff/troff.
-- 👯 I’m looking to collaborate on: research in digitalization, based OEM/ODM firms.
-- 👨‍🔧 I’m looking for help with: data science and advanced mathematical modelling.
+- 📖 I’m currently learning: LaTeX, Linux administration, Shell scripting, OOP patterns, Vue, D3.js, reveal.js, vim, groff/troff.
+- 👯 I’m looking to collaborate on: research in digitalization (based OEM/ODM firms).
+- 👨‍🔧 I’m looking for help with: Data Science and Advanced Mathematical Modelling.
 - 💬 Ask me about chess, jungle music, and basketball.
 - 📫 How to reach me: [Mail](mailto:sadovskiy.grigory@yandex.ru)
 - 🙋‍♂️ My portfolio (not ready yet, but I will put a link anyway): [Link](http://grigorysadovskiy.xyz/)
