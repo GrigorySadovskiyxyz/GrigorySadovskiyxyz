@@ -4,7 +4,7 @@
 
 ### About Me
 
-I grew up in Moscow. I studied industrial engineering and management (IEM) in top tier Russian's Univesity (BMSTU) and did a Bachelor degree in that. Proficient in English language. I accomplished my Master Degree studying innovation management, then did Double Degree in LUT University, Finland. I am a Ph.D. student in IEM, and involved in academic team projects at EBM-6 faculty at Bauman University. My passion is mainly lies in technological scope and I'm happiest solving tough technical and managerial challenges, both in academia and business related fields, with my favourite technologies including Javascript, Python, Data Analytics.
+I grew up in Moscow. I studied industrial engineering and management (IEM) in top tier Russian's Univesity (BMSTU) and did a Bachelor degree in that. Proficient in English language. I accomplished my Master Degree studying innovation management, then did Double Degree in LUT University, Finland. I am a research assistant in IEM, and involved in academic team projects at EBM-6 faculty at Bauman University. My passion is mainly lies in technological scope and I'm happiest solving tough technical and managerial challenges, both in academia and business related fields, with my favourite technologies including Javascript, Python, Data Analytics.
 
 ---
 
